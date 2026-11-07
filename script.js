@@ -80,7 +80,7 @@ const PRODUCTS = [
         id: "Cold Brew",
         name: "Cold Brew",
         description: "Café feito na água fria por 12h. Mais forte, menos ácido, super refrescante.",
-        image: "coldbrew.jpg",
+        image: "coldBrew.jpg",
         price: 15.99,
         originalPrice: 20.99,
         category: "gelado"
